@@ -12,6 +12,7 @@ my internet site list and link
  
  - udacity 优达学城
  https://classroom.udacity.com
+   - Intro to computer science https://classroom.udacity.com/courses/cs101/
  
 ### 资讯网站
  
@@ -28,7 +29,9 @@ https://git.oschina.net/
   - geely https://git.oschina.net/originSouth/geely-2016
   - plm-tech https://git.oschina.net/originSouth/plmtech
   - yuchai https://git.oschina.net/HandOriginSouthIm1/yuchai-yh
-  
+- github.com 
+  https://github.com/james-gone
+  - 
 ### 邮箱
 - mail.qq.com QQ邮箱
 https://mail.qq.com
