@@ -31,7 +31,7 @@ https://git.oschina.net/
   - yuchai https://git.oschina.net/HandOriginSouthIm1/yuchai-yh
 - github.com 
   https://github.com/james-gone
-  - 
+
 ### 邮箱
 - mail.qq.com QQ邮箱
 https://mail.qq.com
