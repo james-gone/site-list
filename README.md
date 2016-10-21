@@ -31,6 +31,10 @@ https://git.oschina.net/
   - yuchai https://git.oschina.net/HandOriginSouthIm1/yuchai-yh
 - github.com 
   https://github.com/james-gone
+- gitlab
+https://about.gitlab.com/
+  - https://about.gitlab.com/documentation/ 
+  - https://docs.gitlab.com/ce/  community edition documents
 
 ### 邮箱
 - mail.qq.com QQ邮箱
@@ -62,3 +66,8 @@ http://yun.baidu.com/disk
 
 - app.hand-china.com hrms
 http://app.hand-china.com/
+
+### siemens gtac
+
+http://www.plm.automation.siemens.com/en_us/support/gtac/
+
