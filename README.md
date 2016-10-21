@@ -58,3 +58,7 @@ https://www.weiyun.com/
 - yun.baidu.com 百度云 
 http://yun.baidu.com/disk
 
+### 汉得公司
+
+- app.hand-china.com hrms
+http://app.hand-china.com/
