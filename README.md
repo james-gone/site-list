@@ -72,3 +72,9 @@ http://app.hand-china.com/
 - gtac
 http://www.plm.automation.siemens.com/en_us/support/gtac/
 
+### Markdown
+
+- Markdown 语法
+http://support.typora.io/Markdown-Reference/
+- mermaid 图表
+https://knsv.github.io/mermaid/#flowcharts-basic-syntax
