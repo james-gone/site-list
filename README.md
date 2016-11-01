@@ -29,6 +29,7 @@ https://git.oschina.net/
   - geely https://git.oschina.net/originSouth/geely-2016
   - plm-tech https://git.oschina.net/originSouth/plmtech
   - yuchai https://git.oschina.net/HandOriginSouthIm1/yuchai-yh
+  - avic https://git.oschina.net/james-gone/avic
 - github.com 
   https://github.com/james-gone
 - gitlab
