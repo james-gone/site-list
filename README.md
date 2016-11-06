@@ -15,10 +15,7 @@ https://git.oschina.net/james-gone/tasklist
    
    - Introduction to CSS3
    https://www.coursera.org/learn/introcss/home/welcome
- 
- - ruby 论坛
- https://ruby-china.org
- 
+
  - udacity 优达学城
  https://classroom.udacity.com
    - Intro to computer science https://classroom.udacity.com/courses/cs101/
@@ -29,7 +26,7 @@ https://git.oschina.net/james-gone/tasklist
  https://www.oschina.net/
  
  - ruby-china.org ruby中国社区
- https://ruby-china.org
+https://ruby-china.org/topics
  
 ### 代码管理
 
