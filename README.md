@@ -10,6 +10,13 @@ https://git.oschina.net/james-gone/tasklist
  http://www.duolingo.cn/
  
  - coursera.org
+   - Ruby on Rails: An Introduction
+   https://www.coursera.org/learn/ruby-on-rails-intro/home/welcome
+   
+   - Introduction to CSS3
+   https://www.coursera.org/learn/introcss/home/welcome
+ 
+ - ruby 论坛
  https://ruby-china.org
  
  - udacity 优达学城
