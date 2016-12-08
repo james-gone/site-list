@@ -27,6 +27,8 @@ https://git.oschina.net/james-gone/tasklist
  
  - ruby-china.org ruby中国社区
 https://ruby-china.org/topics
+
+https://laod.cn/
  
 ### 代码管理
 
