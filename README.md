@@ -29,6 +29,9 @@ https://git.oschina.net/james-gone/tasklist
 https://ruby-china.org/topics
 
 https://laod.cn/
+
+https://www.google.com/ncr
+
  
 ### 代码管理
 
